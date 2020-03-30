@@ -1,5 +1,5 @@
 {
   "album_permits": [
-    
+    {"id": 1,"userId": 1,"albumId": 1,"read": true,"write": true}
   ]
 }
